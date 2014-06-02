@@ -23,5 +23,6 @@ public class MyResource {
     public String getIt() {
     	log.info("Test Logging Rest Resource");
         return "Hi there! This is Praveen";
+        Test
     }
 }
