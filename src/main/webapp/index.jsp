@@ -5,7 +5,7 @@
 <p>Visit the <a href="http://jersey.java.net">Project Jersey website</a>
 for more information on Jersey!
 
-git feature 2
+git feature 2 --finished
 
 </body>
 </html>
