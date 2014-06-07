@@ -7,5 +7,7 @@ for more information on Jersey!
 
 git feature 2 --finished
 
+bug fixed
+
 </body>
 </html>
