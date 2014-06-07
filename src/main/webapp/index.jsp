@@ -9,5 +9,6 @@ git feature 2 --finished - merged
 
 bug fixed
 
+feature 1
 </body>
 </html>
