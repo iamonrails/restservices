@@ -6,5 +6,7 @@
 for more information on Jersey!
 
 bug fixed
+
+feature 1
 </body>
 </html>
