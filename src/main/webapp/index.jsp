@@ -5,6 +5,7 @@
 <p>Visit the <a href="http://jersey.java.net">Project Jersey website</a>
 for more information on Jersey!
 
-This is edit from the feature2
+git feature 2
+
 </body>
 </html>
